@@ -69,7 +69,7 @@ public class Caps extends javax.swing.JFrame {
     private final static int AC_CALCULA=5;
     private final static int AC_PRINTPREVIEW=6;
     //
-    private final static String VERSION="01.00.20100201";
+    private final static String VERSION="01.01.20100523";
     private final static String APPNAME="Caps";
     private final static String EXT=".cap";
     /** Creates new form Caps */
